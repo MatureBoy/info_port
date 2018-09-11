@@ -1,0 +1,94 @@
+.module-1{
+width:80%;
+}
+.module-1 tr{
+	color:#33c1cf
+}
+.module-2 tr{
+	color:#f7c552;
+}
+.table-1 {
+	margin:0 auto;
+	height:80% ;
+	width:60%;	
+}
+.table-1 caption{
+	text-align:center;
+	color:white;
+	font-size:20px;
+}
+.table-1 th{
+	text-align:center;
+}
+.table-1 td{
+	text-align:center;
+}
+.table-2 {
+	height:30% ;
+	width:500px;
+}
+.table-2 td{
+	text-align:center;
+}
+.table-2 th{
+	text-align:center;
+}
+.table-4 {
+	height:30% ;
+	width:400px;
+	height:120px;
+}
+.table-4 td{
+	text-align:center;
+}
+.table-4 th{
+	text-align:center;
+}
+.table-5 {
+	height:30% ;
+	width:200px;
+	height:80px;
+}
+.table-5 td{
+	text-align:center;
+}
+.table-5 th{
+	text-align:center;
+}
+.table-x {
+}
+.table-x td{
+	text-align:center;
+}
+.table-x th{
+	text-align:center;
+}
+
+.table-3 {
+	height:40% ;
+	width:300px;
+}
+.table-3 td{
+	text-align:center;
+}
+ul{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+}
+li
+{
+display:inline;
+}
+.select-1{
+	color:white ;
+	background:rgba(105,100,100,0.5);
+}
+.text-1{
+	height:520px ;
+	background-color:rgba(0,0,0,0.5);
+	width:950px 
+}
+p{
+	color:white;
+}
